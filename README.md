@@ -1,16 +1,39 @@
-## Hi there 👋
+# Saad Siddique
 
-<!--
-**saadsiddiquemughal-svg/saadsiddiquemughal-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics PhD researcher transitioning into Applied AI, Data Science, and Intelligent Data Systems.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Time Series Forecasting
+- Machine Learning Systems
+- LLM Applications & RAG
+- Data Analytics
+- AI Automation
+- Scientific Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Python
+- SQL
+- Pandas
+- Scikit-learn
+- XGBoost
+- Streamlit
+- FastAPI
+- Docker
+- PostgreSQL
+- Git/GitHub
+
+## Featured Projects
+
+### Time Series Forecasting Dashboard
+Production-style forecasting platform using SARIMAX, XGBoost, and LSTM with automated preprocessing, model evaluation, drift detection, and Streamlit deployment.
+
+🔗 https://github.com/saadsiddiquemughal-svg/time-series-forecasting-dashboard
+
+## Currently Learning
+- Production ML Systems
+- LLM Engineering
+- Data Engineering Pipelines
+- AI Deployment Workflows
+
+## Contact
+- LinkedIn: ADD_LATER
