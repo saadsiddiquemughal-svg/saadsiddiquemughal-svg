@@ -36,4 +36,4 @@ Production-style forecasting platform using SARIMAX, XGBoost, and LSTM with auto
 - AI Deployment Workflows
 
 ## Contact
-- LinkedIn: [(https://www.linkedin.com/in/saad-siddique-physcist/)]
+- LinkedIn: (https://www.linkedin.com/in/saad-siddique-physcist/)
