@@ -1,8 +1,15 @@
 # Saad Siddique
+**Computational Physicist | ML Engineer | Scientific Computing**
 
 Physics PhD researcher working at the intersection of **Scientific Computing, Machine Learning, and AI Systems**.
-
 I develop data-driven solutions for complex scientific and real-world problems, with experience in surrogate modeling, time-series forecasting, LLM applications, and intelligent data workflows.
+
+## What I've Built
+
+Three projects demonstrating this approach:
+- ML surrogates for physics simulations (70,500× speedup)
+- Production forecasting platforms with drift detection
+- Agentic RAG systems for scientific literature
 
 ## Focus Areas
 
@@ -41,10 +48,8 @@ I develop data-driven solutions for complex scientific and real-world problems, 
 ## Featured Projects
 
 ### Dynamic Aperture Surrogate Model
-
-Machine learning surrogate model for accelerator physics simulations, replacing computationally expensive dynamic aperture evaluations with fast data-driven predictions.
-
-Built using physics simulation data and machine learning techniques to accelerate analysis workflows.
+ML surrogate replacing expensive physics simulations: 70,500× speedup, R² = 0.92 on held-out test set.
+Built physics-based data pipeline and trained XGBoost/neural-network models to accelerate accelerator lattice optimization.
 
 🔗 https://github.com/saadsiddiquemughal-svg/dynamic-aperture-surrogate
 
@@ -52,10 +57,8 @@ Built using physics simulation data and machine learning techniques to accelerat
 ---
 
 ### Time Series Forecasting Dashboard
-
-Production-style forecasting platform implementing multiple forecasting approaches including SARIMAX, XGBoost, and LSTM.
-
-Features automated preprocessing, model comparison, evaluation metrics, drift detection, and interactive Streamlit visualization.
+Production forecasting platform: XGBoost achieved RMSE 6.25, MAE 5.25 on German electricity prices.
+Features automated preprocessing, multi-model comparison (SARIMAX/XGBoost/LSTM), drift detection, and interactive Streamlit visualization.
 
 🔗 https://github.com/saadsiddiquemughal-svg/time-series-forecasting-dashboard
 
@@ -69,19 +72,14 @@ Retrieval-augmented QA system for scientific literature. Generic pipeline for in
 🔗 https://github.com/saadsiddiquemughal-svg/edm-literature-rag-agent
 
 
-## Currently Learning
-
-- Production ML Systems
-- LLM Engineering
-- AI Agents & RAG Architectures
-- Data Engineering Pipelines
-- Cloud & AI Deployment Workflows
+## Currently Building
+- Extending surrogate models to multi-parameter optimization (planning a follow-up to the DA project)
+- Scaling RAG systems for multi-source scientific knowledge bases
+- Production deployment patterns for ML inference pipelines
 
 ## Research Background
-
-PhD researcher in Physics with experience in computational modeling, simulation workflows, and data-driven analysis.
-
-Interested in applying AI and machine learning methods to scientific, engineering, and industrial challenges.
+PhD researcher in accelerator physics (RWTH Aachen, defended 2026). Thesis on beam dynamics simulations for precision EDM measurements (CERN, FZ Jülich, GSI collaboration). 
+4+ years building large-scale simulations (10⁵ particles, 7×10⁵ turns) — that experience directly motivated learning ML to accelerate scientific computing workflows.
 
 ## Contact
 
