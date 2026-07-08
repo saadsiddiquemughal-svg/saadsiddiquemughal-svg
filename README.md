@@ -35,7 +35,6 @@ I develop data-driven solutions for complex scientific and real-world problems, 
 **Deployment & Engineering**
 - Streamlit
 - FastAPI
-- Docker
 - PostgreSQL
 - Git/GitHub
 
@@ -65,9 +64,7 @@ Features automated preprocessing, model comparison, evaluation metrics, drift de
 
 ### EDM Literature RAG Agent
 
-An agentic Retrieval-Augmented Generation (RAG) system for scientific literature exploration.
-
-The project demonstrates document ingestion, retrieval pipelines, query planning, and LLM-based synthesis for answering questions from research papers.
+Retrieval-augmented QA system for scientific literature. Generic pipeline for indexing arXiv papers, building searchable knowledge bases, and answering domain questions with citations. Built on EDM storage-ring physics; reusable for any research field.
 
 🔗 https://github.com/saadsiddiquemughal-svg/edm-literature-rag-agent
 
