@@ -83,4 +83,4 @@ PhD researcher in accelerator physics (RWTH Aachen, defended 2026). Thesis on be
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/saad-siddique-physcist/
+- LinkedIn: https://www.linkedin.com/in/saad-siddique-physicist/
